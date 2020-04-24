@@ -1,5 +1,6 @@
 def my_hash
-  your_hash = {"game" => "Dark Souls", "developer => "From Software"}
+  your_hash = {"game" => "Dark Souls", developer => "From Software"}
+  puts your_hash
 
 end
 
